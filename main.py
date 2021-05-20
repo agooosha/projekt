@@ -1,2 +1,6 @@
 print("hello word")
-a = 5
+a = 6
+
+c = 1
+d = 2
+print('XDDDDDDDDDDDDDDD')
